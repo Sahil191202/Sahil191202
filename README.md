@@ -1,3 +1,11 @@
+# 👋 Hey, I'm Sahil Khan 👨‍💻
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Fullstack+Dev+%7C+React+Enthusiast;YouTuber+@pedrotechnologies;" alt="Typing SVG" />
+</div>
+
+---
+
 # 💫 About Me:
 I’m currently working on full-stack web applications using React, Node.js, Express, and MongoDB. I’m interested in collaborating on web development, MERN stack, and beginner-friendly AI/ML projects, and I’m also looking for guidance in advanced backend optimization, system design, and real-world AI integration. At the moment, I’m learning Artificial Intelligence and Machine Learning along with advanced React and Node.js concepts. You can ask me about JavaScript, React, Node.js, REST APIs, and databases. Fun fact: I enjoy simplifying complex problems into clean, efficient solutions. 🚀
 
