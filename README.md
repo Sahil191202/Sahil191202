@@ -6,9 +6,6 @@
 
 ---
 
-## 📄 Resume
-[Download Resume (PDF)](./Sahil_Khan_Resume.pdf)
-
 # 💫 About Me:
 I’m currently working on full-stack web applications using React, Node.js, Express, and MongoDB. I’m interested in collaborating on web development, MERN stack, and beginner-friendly AI/ML projects, and I’m also looking for guidance in advanced backend optimization, system design, and real-world AI integration. At the moment, I’m learning Artificial Intelligence and Machine Learning along with advanced React and Node.js concepts. You can ask me about JavaScript, React, Node.js, REST APIs, and databases. Fun fact: I enjoy simplifying complex problems into clean, efficient solutions. 🚀
 
